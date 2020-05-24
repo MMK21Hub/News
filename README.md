@@ -1,1 +1,3 @@
-The weekly news emails are currently being managed through Discord. <sup>[[View online](https://discord.com/channels/569603162739179520/708958305686388767/708958342118244368)]</sup>
+*You are probably looking for the [auto-updating news page](mmk21hub.github.io/News/Latest.md).*
+
+The weekly news emails are now mainly being managed through this GitHub repo. The recommended way to get news is to check the [auto-updating page](mmk21hub.github.io/News/Latest.md).
