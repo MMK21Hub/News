@@ -1,3 +1,3 @@
-*You are probably looking for the [auto-updating news page](mmk21hub.github.io/News/Latest.md).*
+*You are probably looking for the [auto-updating news page](https://mmk21hub.github.io/News/Latest.md).*
 
-The weekly news emails are now mainly being managed through this GitHub repo. The recommended way to get news is to check the [auto-updating page](mmk21hub.github.io/News/Latest.md).
+The weekly news emails are now mainly being managed through this GitHub repo. The recommended way to get news is to check the [auto-updating page](https://mmk21hub.github.io/News/Latest.md).
