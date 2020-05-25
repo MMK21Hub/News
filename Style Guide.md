@@ -1,1 +1,2 @@
-Minecraft: Java Edition > Minecraft
+Minecraft: Java Edition --> Minecraft
+Mojang Studios --> Mojang
