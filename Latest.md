@@ -7,9 +7,9 @@
 
 ## Updates
  - [MediaWiki 1.35.0-wmf.34](https://www.mediawiki.org/wiki/MediaWiki_1.35/wmf.34) is being rolled out this week: [Phabricator task](https://phabricator.wikimedia.org/T253022) • [Roadmap](https://www.mediawiki.org/wiki/MediaWiki_1.35/Roadmap#34) • [Current status](https://versions.toolforge.org/) • [Git](https://phabricator.wikimedia.org/source/mediawiki/history/wmf%252F1.35.0-wmf.34) • [Notes](https://phabricator.wikimedia.org/maniphest/?project=PHID-PROJ-rxxuhlo4hr46ltm5xq2y&statuses=open()&group=none&order=newest#R)
-    - Group 0 is scheduled for [Tuesday](  https://wikitech.wikimedia.org/wiki/Deployments#Tuesday,_May_26  ).
-    - Group 1 is scheduled for [Wednesday](https://wikitech.wikimedia.org/wiki/Deployments#Wednesday,_May_27).
-    - Group 2 is scheduled for [Thursday]( https://wikitech.wikimedia.org/wiki/Deployments#Thursday,_May_28 ).
+    - Group 0 is scheduled for Tuesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200526T1900  ) is 8pm to 10pm BST.
+    - Group 1 is scheduled for Wednesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200527T1900) is 8pm to 10pm BST.
+    - Group 2 is scheduled for Thursday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200528T1900 ) is 9pm to 11pm BST.
  - [Minecraft Dungeons](https://www.minecraft.net/en-us/about-dungeons/) has released.
 
 
