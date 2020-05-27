@@ -9,3 +9,5 @@ When writing news, try to follow the [Style Guide](https://github.com/MMK21Hub/N
  - [Wikimedia-l](https://lists.wikimedia.org/pipermail/wikimedia-l/) and [MediaWiki-announce](https://lists.wikimedia.org/pipermail/mediawiki-announce/) (Use 'Thread' view)
  - [RSS feeds](https://feedreader.com/)
  - Terraria community calendar
+ - Google calendar
+ - #community-creations in VanillaTweaks discord server.
