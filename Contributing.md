@@ -8,6 +8,6 @@ When writing news, try to follow the [Style Guide](https://github.com/MMK21Hub/N
  - [Spam email](https://mail.google.com/mail/u/2/)
  - [Wikimedia-l](https://lists.wikimedia.org/pipermail/wikimedia-l/) and [MediaWiki-announce](https://lists.wikimedia.org/pipermail/mediawiki-announce/) (Use 'Thread' view)
  - [RSS feeds](https://feedreader.com/)
- - Terraria community calendar
- - Google calendar
+ - [Terraria community calendar](https://docs.google.com/spreadsheets/d/1XEQiZlonknFfE0aXapBn--8CksTW521hluoIDgWowzk/edit?usp=sharing)
+ - [Google calendar](https://calendar.google.com/calendar/r)
  - #community-creations in VanillaTweaks discord server.
