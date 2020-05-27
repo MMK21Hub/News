@@ -20,7 +20,7 @@ None!
 ## Upcoming events
  - 🔄 The official Terraria weekly stream is every Friday at 9pm BST, on [Twitch](https://www.twitch.tv/terrariaofficial).
  - 🔄 The [Terraria Community Team](https://discord.gg/chpcEC2) meeting is every Saturday at 8pm BST.
- - 🔄 The Terraria Event forecast releses every Sunday, too late to cover here. You can find it in #activities-announcement at the [Official Terraria Discord Server](http://discord.gg/terraria).
+ - 🔄 The Terraria Event forecast releases every Sunday, too late to cover here. You can find it in #activities-announcement at the [Official Terraria Discord Server](http://discord.gg/terraria).
 
 ## Stay safe
 There is a new Discord trojan attack doing the rounds where it logs you out of Discord and you have to log back in... Once you log back in, it then has access to your account and user tokens. 
