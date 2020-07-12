@@ -2,6 +2,9 @@
 
  - [News that doesn't fit into the below sections]
  
+## Releases
+ - ❌
+ 
 ## Updates
  - [MediaWiki 1.35.0-wmf.❌❌](https://www.mediawiki.org/wiki/MediaWiki_1.35/wmf.❌❌) is being rolled out this week: [Phabricator task](https://phabricator.wikimedia.org/T❌❌❌❌) • [Roadmap](https://www.mediawiki.org/wiki/MediaWiki_1.35/Roadmap#❌❌) • [Current status](https://versions.toolforge.org/) • [Git](https://❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌) • [Notes](https://phabricator.wikimedia.org/maniphest/?project=❌❌❌❌❌❌❌❌)
     - Group 0 is scheduled for Tuesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-❌❌❌  ) is ❌ to ❌ BST.
