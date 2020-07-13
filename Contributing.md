@@ -14,6 +14,11 @@ When writing news, try to follow the [Style Guide](https://github.com/MMK21Hub/N
  - #update-releases and #new-releases in The Fabric Project discord server.
 
 ## Style guide
+Technical levels:
+1 - Editing
+2 - Technical user
+3 - Writing code
+
 |Terms to avoid|Use instead|
 |--------------|-----------|
 Minecraft: Java Edition | Minecraft 
