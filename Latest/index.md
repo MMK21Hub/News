@@ -4,6 +4,7 @@
  - Multi-language wikis (Commons, etc) use the [Translate](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Extension:Translate) extention. Missing translations will soon be highlighted, similar to how Outdated translations are highlighted pink.
    - 🔧<sup>1</sup> This highlighting [will soon be able to be disabled](https://phabricator.wikimedia.org/T256625) using a tag like `<translate nowrap>`.
  - 🔧<sup>3</sup> Wikimedia [will be moving](https://lists.wikimedia.org/pipermail/wikitech-l/2020-July/093577.html) onto GitLab instead of Gerrit for code review. See the linked email for more infomation.
+ - The 'first step in cutting the release branch' for the MediaWiki 1.35 release will happen today (Monday). Afterwards, the focus will move off any new features and onto bugfixes. MediaWiki 1.35 is expected to land 'at the beginning of August'. [More infomation can be found in this email.](https://lists.wikimedia.org/pipermail/mediawiki-announce/2020-June/000250.html)
 
 ## Updates 
  - [MediaWiki 1.35.0-wmf.41](https://www.mediawiki.org/wiki/MediaWiki_1.35/wmf.41) is being rolled out this week: [Phabricator task](https://phabricator.wikimedia.org/T256669) • [Roadmap](https://www.mediawiki.org/wiki/MediaWiki_1.35/Roadmap#41) • [Current status](https://versions.toolforge.org/) • [Git](https://phabricator.wikimedia.org/source/mediawiki/history/wmf%252F1.35.0-wmf.41) • [Notes](https://phabricator.wikimedia.org/project/view/4807/) • [Commits](https://phabricator.wikimedia.org/source/mediawiki/compare/?head=wmf%2F1.35.0-wmf.41&against=master)
