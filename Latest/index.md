@@ -1,14 +1,16 @@
 # 2020 week 29
 
  - Optifabric [will no longer continue to be updated](https://gist.github.com/modmuss50/deff1658c4550ca8b16cb5d40ceaa468).
+ - Multi-language wikis (Commons, etc) use the [Translate](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Extension:Translate) extention. Missing translations will soon be highlighted, similar to how Outdated translations are highlighted pink.
+   - 🔧<sup>1</sup> This highlighting [will soon be able to be disabled](https://phabricator.wikimedia.org/T256625) using a tag like `<translate nowrap>`.
+ - 🔧<sup>3</sup> Wikimedia [will be moving](https://lists.wikimedia.org/pipermail/wikitech-l/2020-July/093577.html) onto GitLab instead of Gerrit for code review. See the linked email for more infomation.
 
 ## Updates 
-<!--
- - [MediaWiki 1.35.0-wmf.❌❌](https://www.mediawiki.org/wiki/MediaWiki_1.35/wmf.❌❌) is being rolled out this week: [Phabricator task](https://phabricator.wikimedia.org/T❌❌❌❌) • [Roadmap](https://www.mediawiki.org/wiki/MediaWiki_1.35/Roadmap#❌❌) • [Current status](https://versions.toolforge.org/) • [Git](https://❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌) • [Notes](https://phabricator.wikimedia.org/maniphest/?project=❌❌❌❌❌❌❌❌)
-    - Group 0 is scheduled for Tuesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-❌❌❌  ) is ❌ to ❌ BST.
-    - Group 1 is scheduled for Wednesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-❌❌❌) is ❌ to ❌ BST.
-    - Group 2 is scheduled for Thursday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-❌❌❌ ) is ❌ to ❌ BST.
- - [I need a proper template for snapshots]-->
+ - [MediaWiki 1.35.0-wmf.41](https://www.mediawiki.org/wiki/MediaWiki_1.35/wmf.41) is being rolled out this week: [Phabricator task](https://phabricator.wikimedia.org/T256669) • [Roadmap](https://www.mediawiki.org/wiki/MediaWiki_1.35/Roadmap#41) • [Current status](https://versions.toolforge.org/) • [Git](https://phabricator.wikimedia.org/source/mediawiki/history/wmf%252F1.35.0-wmf.41) • [Notes](https://phabricator.wikimedia.org/project/view/4807/) • [Commits](https://phabricator.wikimedia.org/source/mediawiki/compare/?head=wmf%2F1.35.0-wmf.41&against=master)
+    - Group 0 is scheduled for Tuesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200714T1300  ) is 2:00pm to 4:00pm BST.
+    - Group 1 is scheduled for Wednesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200715T1300) is 2:00pm to 4:00pm BST.
+    - Group 2 is scheduled for Thursday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200716T1300 ) is 2:00pm to 4:00pm BST. 
+<!-- - [I need a proper template for snapshots]-->
  - [Essentials for Fabric](https://github.com/NyliumMC/Essentials) [v0.2.2](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3003143) has released. It includes`/enderchest` and a claims API.
 <!-- 
 ## Past events
