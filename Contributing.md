@@ -15,9 +15,9 @@ When writing news, try to follow the [Style Guide](https://github.com/MMK21Hub/N
 
 ## Style guide
 Technical levels:
-1 - Editing
-2 - Technical user
-3 - Writing code
+- 1 - Editing
+- 2 - Technical user
+- 3 - Writing code
 
 |Terms to avoid|Use instead|
 |--------------|-----------|
