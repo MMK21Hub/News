@@ -4,7 +4,7 @@
  - Multi-language wikis (Commons, etc) use the [Translate](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Extension:Translate) extention. Missing translations will soon be highlighted, similar to how Outdated translations are highlighted pink.
    - 🔧<sup>1</sup> This highlighting [will soon be able to be disabled](https://phabricator.wikimedia.org/T256625) using a tag like `<translate nowrap>`.
  - 🔧<sup>3</sup> Wikimedia [will be moving](https://lists.wikimedia.org/pipermail/wikitech-l/2020-July/093577.html) onto GitLab instead of Gerrit for code review. See the linked email for more infomation.
- - The 'first step in cutting the release branch' for the MediaWiki 1.35 release will happen today (Monday). Afterwards, the focus will move off any new features and onto bugfixes. MediaWiki 1.35 is expected to land 'at the beginning of August'. [More infomation can be found in this email.](https://lists.wikimedia.org/pipermail/mediawiki-announce/2020-June/000250.html)
+ - The 'first step in cutting the release branch' for the MediaWiki 1.35 release happened on Monday. The focus is now on bugfixes: any new features will be targeted at 1.36. MediaWiki 1.35 is expected to land 'at the beginning of August'. [More infomation can be found in this email.](https://lists.wikimedia.org/pipermail/mediawiki-announce/2020-June/000250.html)
 
 ## Updates 
  - [MediaWiki 1.35.0-wmf.41](https://www.mediawiki.org/wiki/MediaWiki_1.35/wmf.41) is being rolled out this week: [Phabricator task](https://phabricator.wikimedia.org/T256669) • [Roadmap](https://www.mediawiki.org/wiki/MediaWiki_1.35/Roadmap#41) • [Current status](https://versions.toolforge.org/) • [Git](https://phabricator.wikimedia.org/source/mediawiki/history/wmf%252F1.35.0-wmf.41) • [Notes](https://phabricator.wikimedia.org/project/view/4807/) • [Commits](https://phabricator.wikimedia.org/source/mediawiki/compare/?head=wmf%2F1.35.0-wmf.41&against=master)
@@ -16,6 +16,7 @@
  - [Essentials for Fabric](https://github.com/NyliumMC/Essentials) [v0.2.3](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3003771) has released. It includes `/trash` and a QoL tweak for the `teleport` module.
  - [Roughly Enough Items](https://github.com/shedaniel/RoughlyEnoughItems) [v4.9](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items/files/3003840) has released. It improves searching performance, along with a few other tweaks.
  - [ChainsLink](https://www.curseforge.com/minecraft/mc-mods/chains-link) [v1.1](https://www.curseforge.com/minecraft/mc-mods/chains-link/files/3004397) has released. It doesn't crash on startup now!
+ - [Don't Drop It!](https://github.com/Leo40Git/DontDropIt) [v1.1](https://www.curseforge.com/minecraft/mc-mods/dont-drop-it/files/3004514) has released. Rebindable keys, ModUpdater support, and fulfilled requests!
 <!-- 
 ## Past events
  - ❌
