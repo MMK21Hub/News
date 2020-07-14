@@ -8,7 +8,7 @@
 
 ## Updates 
  - [MediaWiki 1.35.0-wmf.41](https://www.mediawiki.org/wiki/MediaWiki_1.35/wmf.41) is being rolled out this week: [Phabricator task](https://phabricator.wikimedia.org/T256669) • [Roadmap](https://www.mediawiki.org/wiki/MediaWiki_1.35/Roadmap#41) • [Current status](https://versions.toolforge.org/) • [Git](https://phabricator.wikimedia.org/source/mediawiki/history/wmf%252F1.35.0-wmf.41) • [Notes](https://phabricator.wikimedia.org/project/view/4807/) • [Commits](https://phabricator.wikimedia.org/source/mediawiki/compare/?head=wmf%2F1.35.0-wmf.41&against=master)
-    - Group 0 is scheduled for Tuesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200714T1300  ) is 2:00pm to 4:00pm BST.
+    - Group 0 is scheduled for Tuesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200714T1300  ) is 2:00pm to 4:00pm BST. (Note: It was pushed early)
     - Group 1 is scheduled for Wednesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200715T1300) is 2:00pm to 4:00pm BST.
     - Group 2 is scheduled for Thursday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200716T1300 ) is 2:00pm to 4:00pm BST. 
 <!-- - [I need a proper template for snapshots]-->
