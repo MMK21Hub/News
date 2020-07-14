@@ -15,6 +15,7 @@
  - [Essentials for Fabric](https://github.com/NyliumMC/Essentials) [v0.2.2](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3003143) has released. It includes `/enderchest` and a claims API.
  - [Essentials for Fabric](https://github.com/NyliumMC/Essentials) [v0.2.3](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3003771) has released. It includes `/trash` and a QoL tweak for the `teleport` module.
  - [Roughly Enough Items](https://github.com/shedaniel/RoughlyEnoughItems) [v4.9](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items/files/3003840) has released. It improves searching performance, along with a few other tweaks.
+ - [ChainsLink](https://www.curseforge.com/minecraft/mc-mods/chains-link) [v1.1](https://www.curseforge.com/minecraft/mc-mods/chains-link/files/3004397) has released. It doesn't crash on startup now!
 <!-- 
 ## Past events
  - ❌
