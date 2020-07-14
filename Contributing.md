@@ -6,7 +6,7 @@ When writing news, try to follow the [Style Guide](https://github.com/MMK21Hub/N
  - [GitHub releases](https://github.com/notifications)
  - Discord announcements/pings ("Recent Mentions")
  - [Spam email](https://mail.google.com/mail/u/1/)
- - [Wikimedia-l](https://lists.wikimedia.org/pipermail/wikimedia-l/) and [MediaWiki-announce](https://lists.wikimedia.org/pipermail/mediawiki-announce/) (Use 'Thread' view)
+ - Mailing lists (Use 'Thread' view): [Wikimedia-l](https://lists.wikimedia.org/pipermail/wikimedia-l/) [Wikitech-l](https://lists.wikimedia.org/pipermail/wikitech-l/) [MediaWiki-announce](https://lists.wikimedia.org/pipermail/mediawiki-announce/)
  - [RSS feeds](https://feedreader.com/)
  - [Terraria community calendar](https://docs.google.com/spreadsheets/d/1XEQiZlonknFfE0aXapBn--8CksTW521hluoIDgWowzk/edit?usp=sharing)
  - [Google calendar](https://calendar.google.com/calendar/r)
