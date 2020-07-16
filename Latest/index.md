@@ -18,6 +18,7 @@
  - [Roughly Enough Items](https://github.com/shedaniel/RoughlyEnoughItems) [v4.9](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items/files/3003840) has released. It improves searching performance, along with a few other tweaks.
  - [ChainsLink](https://www.curseforge.com/minecraft/mc-mods/chains-link) [v1.1](https://www.curseforge.com/minecraft/mc-mods/chains-link/files/3004397) has released. It doesn't crash on startup now!
  - [Don't Drop It!](https://github.com/Leo40Git/DontDropIt) [v1.1](https://www.curseforge.com/minecraft/mc-mods/dont-drop-it/files/3004514) has released. Rebindable keys, ModUpdater support, and fulfilled requests!
+ - [ModMenu](https://github.com/Prospector/ModMenu) [v1.14.2](https://www.curseforge.com/minecraft/mc-mods/modmenu/files/3006339) has released. It fixes [the bug that I reported](https://github.com/Prospector/ModMenu/issues/119).
 <!-- 
 ## Past events
  - ❌
