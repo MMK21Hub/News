@@ -12,6 +12,7 @@
     - Group 1 is scheduled for Wednesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200715T1300) was 2:00pm to 4:00pm BST. It was pushed at 2:04pm.
     - Group 2 is scheduled for Thursday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200716T1300 ) is 2:00pm to 4:00pm BST. 
 <!-- - [I need a proper template for snapshots]-->
+ - [Blockbench v3.6](https://github.com/JannisX11/blockbench/releases/tag/v3.6.0), AKA The Streamer Update, has released. It includes Streamer Mode, thumbnails, layered textures, code signing... And plenty more!
  - [Essentials for Fabric](https://github.com/NyliumMC/Essentials) [v0.2.2](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3003143) has released. It includes `/enderchest` and a claims API.
  - [Essentials for Fabric](https://github.com/NyliumMC/Essentials) [v0.2.3](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3003771) has released. It includes `/trash` and a QoL tweak for the `teleport` module.
  - [Roughly Enough Items](https://github.com/shedaniel/RoughlyEnoughItems) [v4.9](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items/files/3003840) has released. It improves searching performance, along with a few other tweaks.
