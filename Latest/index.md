@@ -20,7 +20,7 @@
  - [Don't Drop It!](https://github.com/Leo40Git/DontDropIt) [v1.1](https://www.curseforge.com/minecraft/mc-mods/dont-drop-it/files/3004514) has released. Rebindable keys, ModUpdater support, and fulfilled requests!
  - [ModMenu](https://github.com/Prospector/ModMenu) [v1.14.2](https://www.curseforge.com/minecraft/mc-mods/modmenu/files/3006339) has released. It fixes [the bug that I reported](https://github.com/Prospector/ModMenu/issues/119).
  - [ModMenu](https://github.com/Prospector/ModMenu) [v1.14.5](https://www.curseforge.com/minecraft/mc-mods/modmenu/files/3006672) has released. It fixes crashes.
- - [LambDynamicLights] [v1.2.2](https://discordapp.com/channels/507304429255393322/507982666755473427/733331014037930025) has released. The 'Dynamic Lights' buttton in Video Options now redirects to LambDynamicLights' config. 
+ - [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights) [v1.2.2](https://discordapp.com/channels/507304429255393322/507982666755473427/733331014037930025) has released. The 'Dynamic Lights' buttton in Video Options now redirects to LambDynamicLights' config. 
 <!-- 
 ## Past events
  - ❌
