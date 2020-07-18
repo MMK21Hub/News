@@ -8,6 +8,20 @@
 
 ## Releases
  - [Conflict in Harmony](https://curseforge.com/minecraft/mc-mods/conflict-in-harmony) has released. It allows you to bind multiple actions to one key.
+ - [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized) has released. It's a fabric modpack perfect for switching over from Optifine. It includes:
+   -   [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - optimizes general rendering to improve FPS, adds some graphics options (configurable)
+   -   [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - optimizes chunk loading
+   -   [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) - optimizes light rendering
+   -   [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) - lets you light up the area by holding a torch and more (configurable)
+   -   [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - the zoom feature, as you'd expect (configurable)
+   -   [motioNO](https://www.curseforge.com/minecraft/mc-mods/motiono) - adds an option to disable dynamic FOV (disabled by default)
+   -   [Jumploader](https://www.curseforge.com/minecraft/mc-mods/jumploader) - to make this modpack available on this site
+   -   [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - makes most mods work
+   -   [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) - gives you the list of mods and lets you adjust their configuration
+   -   [Better Mod Button](https://www.curseforge.com/minecraft/mc-mods/better-mod-button) - puts the "mods" button where you'd expect
+   -   [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) - lets you play after a crash and report it comfortably
+   - And more mods planned!
+   - *Hang on, that's all the mods that I use!*
 
 ## Updates 
  - [MediaWiki 1.35.0-wmf.41](https://www.mediawiki.org/wiki/MediaWiki_1.35/wmf.41) is being rolled out this week: [Phabricator task](https://phabricator.wikimedia.org/T256669) • [Roadmap](https://www.mediawiki.org/wiki/MediaWiki_1.35/Roadmap#41) • [Current status](https://versions.toolforge.org/) • [Git](https://phabricator.wikimedia.org/source/mediawiki/history/wmf%252F1.35.0-wmf.41) • [Notes](https://phabricator.wikimedia.org/project/view/4807/) • [Commits](https://phabricator.wikimedia.org/source/mediawiki/compare/?head=wmf%2F1.35.0-wmf.41&against=master)
