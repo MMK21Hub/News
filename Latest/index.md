@@ -26,6 +26,7 @@
  - [ModMenu](https://github.com/Prospector/ModMenu) [v1.14.5](https://www.curseforge.com/minecraft/mc-mods/modmenu/files/3006672) has released. It fixes crashes.
  - [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights) [v1.2.2](https://discordapp.com/channels/507304429255393322/507982666755473427/733331014037930025) has released. The 'Dynamic Lights' buttton in Video Options now redirects to LambDynamicLights' config.
  - [TinyMod](https://github.com/Ficklampan/TinyMod) [v0.0.2](https://github.com/Ficklampan/TinyMod/releases/tag/0.0.2) has released. It improves the UI and polishes some stuff.
+ - [ReAuth](https://github.com/TechnicianLP/ReAuth) [v3.9.0](https://www.curseforge.com/minecraft/mc-mods/reauth/files/3007486) has released. It includes a new 'Login and Retry' button on the error screen.
 <!-- 
 ## Past events
  - ❌
