@@ -23,7 +23,7 @@
    -   [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) - lets you play after a crash and report it comfortably
    - And more mods planned!
    - *Hang on, that's all the mods that I use!*
- - [Topaz HUD](https://www.planetminecraft.com/data-pack/topaz-hud-v1-0/) has released. It adds a custom actionbar HUD displaying Health, Saturation. Elytra Durability, Coordinates and In-Game Time.
+ - [**Topaz HUD**](https://www.planetminecraft.com/data-pack/topaz-hud-v1-0/) has released. It adds a custom actionbar HUD displaying Health, Saturation. Elytra Durability, Coordinates and In-Game Time.
 
 ## Updates 
  - [**MediaWiki** 1.35.0-wmf.41](https://www.mediawiki.org/wiki/MediaWiki_1.35/wmf.41) is being rolled out this week: [Phabricator task](https://phabricator.wikimedia.org/T256669) • [Roadmap](https://www.mediawiki.org/wiki/MediaWiki_1.35/Roadmap#41) • [Current status](https://versions.toolforge.org/) • [Git](https://phabricator.wikimedia.org/source/mediawiki/history/wmf%252F1.35.0-wmf.41) • [Notes](https://phabricator.wikimedia.org/project/view/4807/) • [Commits](https://phabricator.wikimedia.org/source/mediawiki/compare/?head=wmf%2F1.35.0-wmf.41&against=master)
