@@ -1,0 +1,70 @@
+<h1 id="2020-week-29">2020 week 29</h1>
+<p><sup>Status: Fully up-to-date!</sup></p>
+<ul>
+<li>Optifabric <a href="https://gist.github.com/modmuss50/deff1658c4550ca8b16cb5d40ceaa468">will no longer continue to be updated</a>.</li>
+<li>Multi-language wikis (Commons, etc) use the <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Extension:Translate">Translate</a> extention. Missing translations will soon be highlighted, similar to how Outdated translations are highlighted pink.<ul>
+<li>🔧<sup>1</sup> This highlighting <a href="https://phabricator.wikimedia.org/T256625">will soon be able to be disabled</a> using a tag like <code>&lt;translate nowrap&gt;</code>.</li>
+</ul>
+</li>
+<li>🔧<sup>3</sup> Wikimedia <a href="https://lists.wikimedia.org/pipermail/wikitech-l/2020-July/093577.html">will be moving</a> onto GitLab instead of Gerrit for code review. See the linked email for more infomation.</li>
+<li>The &#39;first step in cutting the release branch&#39; for the MediaWiki 1.35 release happened on Monday. The focus is now on bugfixes: any new features will be targeted at 1.36. MediaWiki 1.35 is expected to land &#39;at the beginning of August&#39;. <a href="https://lists.wikimedia.org/pipermail/mediawiki-announce/2020-June/000250.html">More infomation can be found in this email.</a></li>
+<li>The Minecraft 1.12 panorama seed has sbeen found! Seed: <code>2151901553968352745</code>/<code>8091867987493326313</code> (both work) Coordinates: <code>61 75 68</code> (XYZ) Version: Beta 1.7.3 (or earlier). The <a href="https://minecraftathome.com/">Minecraft@Home</a> team reverse-engineered it, and it was announced on <a href="https://www.reddit.com/r/minecraftseeds/comments/hthuu4/big_news_we_have_found_the_seed_of_minecrafts/">Reddit</a> and the <a href="https://linustechtips.com/main/topic/1223925-minecrafthome-have-found-the-seed-of-minecrafts-title-screen-background-panorama/">LTT Forums</a>. <a href="https://www.youtube.com/channel/UClY084mbGLK_SLlOfgizjow">SalC1</a> will upload a video about it soon.</li>
+<li><a href="https://diff.wikimedia.org/2020/07/14/welcome-to-diff-a-community-blog-for-the-wikimedia-movement/">Diff</a> is a new community blog from the Wikimedia Movement.</li>
+</ul>
+<h2 id="releases">Releases</h2>
+<ul>
+<li><a href="https://curseforge.com/minecraft/mc-mods/conflict-in-harmony"><strong>Conflict in Harmony</strong></a> has released. It allows you to bind multiple actions to one key.</li>
+<li><a href="https://www.curseforge.com/minecraft/modpacks/fabulously-optimized"><strong>Fabulously Optimized</strong></a> has released. It&#39;s a fabric modpack perfect for switching over from Optifine. It includes:<ul>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/sodium">Sodium</a> - optimizes general rendering to improve FPS, adds some graphics options (configurable)</li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/lithium">Lithium</a> - optimizes chunk loading</li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/phosphor">Phosphor</a> - optimizes light rendering</li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights">LambDynamicLights</a> - lets you light up the area by holding a torch and more (configurable)</li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/ok-zoomer">Ok Zoomer</a> - the zoom feature, as you&#39;d expect (configurable)</li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/motiono">motioNO</a> - adds an option to disable dynamic FOV (disabled by default)</li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/jumploader">Jumploader</a> - to make this modpack available on this site</li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/fabric-api">Fabric API</a> - makes most mods work</li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/modmenu">Mod Menu</a> - gives you the list of mods and lets you adjust their configuration</li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/better-mod-button">Better Mod Button</a> - puts the &quot;mods&quot; button where you&#39;d expect</li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes">Not Enough Crashes</a> - lets you play after a crash and report it comfortably</li>
+<li>And more mods planned!</li>
+<li><em>Hang on, that&#39;s all the mods that I use!</em></li>
+</ul>
+</li>
+<li><a href="https://www.planetminecraft.com/data-pack/topaz-hud-v1-0/"><strong>Topaz HUD</strong></a> has released. It adds a custom actionbar HUD displaying Health, Saturation. Elytra Durability, Coordinates and In-Game Time.</li>
+</ul>
+<h2 id="updates">Updates</h2>
+<ul>
+<li><a href="https://www.mediawiki.org/wiki/MediaWiki_1.35/wmf.41"><strong>MediaWiki</strong> 1.35.0-wmf.41</a> is being rolled out this week: <a href="https://phabricator.wikimedia.org/T256669">Phabricator task</a> • <a href="https://www.mediawiki.org/wiki/MediaWiki_1.35/Roadmap#41">Roadmap</a> • <a href="https://versions.toolforge.org/">Current status</a> • <a href="https://phabricator.wikimedia.org/source/mediawiki/history/wmf%252F1.35.0-wmf.41">Git</a> • <a href="https://phabricator.wikimedia.org/project/view/4807/">Notes</a> • <a href="https://phabricator.wikimedia.org/source/mediawiki/compare/?head=wmf%2F1.35.0-wmf.41&amp;against=master">Commits</a><ul>
+<li>Group 0 is scheduled for Tuesday. Its <a href="https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200714T1300">time slot</a> was 2:00pm to 4:00pm BST. It was pushed early, around 1pm.</li>
+<li>Group 1 is scheduled for Wednesday. Its <a href="https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200715T1300">time slot</a> was 2:00pm to 4:00pm BST. It was pushed at 2:04pm.</li>
+<li>Group 2 is scheduled for Thursday. Its <a href="https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200716T1300">time slot</a> was 2:00pm to 4:00pm BST.</li>
+</ul>
+</li>
+<li><strong>Minecraft</strong> 20w29a has released.<!--[I need a proper template for snapshots]--></li>
+<li><a href="https://github.com/JannisX11/blockbench/releases/tag/v3.6.0"><strong>Blockbench</strong> v3.6</a>, AKA The Streamer Update, has released. It includes Streamer Mode, thumbnails, layered textures, code signing... And plenty more!</li>
+<li><a href="https://github.com/NyliumMC/Essentials"><strong>Essentials for Fabric</strong></a> <a href="https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3003143">v0.2.2</a> has released. It includes <code>/enderchest</code> and a claims API.</li>
+<li><strong>Essentials for Fabric</strong> <a href="https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3003771">v0.2.3</a> has released. It includes <code>/trash</code> and a QoL tweak for the <code>teleport</code> module.</li>
+<li><a href="https://github.com/shedaniel/RoughlyEnoughItems"><strong>Roughly Enough Items</strong></a> <a href="https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items/files/3003840">v4.9</a> has released. It improves searching performance, along with a few other tweaks.</li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/chains-link"><strong>ChainsLink</strong></a> <a href="https://www.curseforge.com/minecraft/mc-mods/chains-link/files/3004397">v1.1</a> has released. It doesn&#39;t crash on startup now!</li>
+<li><a href="https://github.com/Leo40Git/DontDropIt"><strong>Don&#39;t Drop It!</strong></a> <a href="https://www.curseforge.com/minecraft/mc-mods/dont-drop-it/files/3004514">v1.1</a> has released. Rebindable keys, ModUpdater support, and fulfilled requests!</li>
+<li><strong>Don&#39;t Drop It!</strong> <a href="https://github.com/Leo40Git/DontDropIt/releases/tag/v1.2.0%2B1.16">v1.2</a> has released. <a href="https://github.com/Leo40Git/ConflictInHarmony">Conflict in Harmony</a> is now included out-of-the-box.</li>
+<li><a href="https://github.com/Prospector/ModMenu"><strong>ModMenu</strong></a> <a href="https://www.curseforge.com/minecraft/mc-mods/modmenu/files/3006339">v1.14.2</a> has released. It fixes <a href="https://github.com/Prospector/ModMenu/issues/119">the bug that I reported</a>.</li>
+<li><strong>ModMenu</strong> <a href="https://www.curseforge.com/minecraft/mc-mods/modmenu/files/3006672">v1.14.5</a> has released. It fixes crashes.</li>
+<li><a href="https://github.com/LambdAurora/LambDynamicLights"><strong>LambDynamicLights</strong></a> <a href="https://discordapp.com/channels/507304429255393322/507982666755473427/733331014037930025">v1.2.2</a> has released. The &#39;Dynamic Lights&#39; buttton in Video Options now redirects to LambDynamicLights&#39; config.</li>
+<li><a href="https://github.com/Ficklampan/TinyMod"><strong>TinyMod</strong></a> <a href="https://github.com/Ficklampan/TinyMod/releases/tag/0.0.2">v0.0.2</a> has released. It improves the UI and polishes some stuff.</li>
+<li><a href="https://github.com/TechnicianLP/ReAuth"><strong>ReAuth</strong></a> <a href="https://www.curseforge.com/minecraft/mc-mods/reauth/files/3007486">v3.9</a> has released. It includes a new &#39;Login and Retry&#39; button on the error screen.</li>
+<li><a href="https://curseforge.com/minecraft/mc-mods/conflict-in-harmony"><strong>Conflict in Harmony</strong></a> <a href="https://www.curseforge.com/minecraft/mc-mods/conflict-in-harmony/files/3008090">v1.0.1</a> has released. It fixes compatability with Fabric API.</li>
+<li><a href="https://github.com/Leo40Git/DontDropIt"><strong>Don&#39;t Drop It!</strong></a> <a href="https://www.curseforge.com/minecraft/mc-mods/dont-drop-it/files/3008093">v1.2.1</a> has released. Conflict In Harmony was updated to v1.0.1.</li>
+<li><a href="https://www.planetminecraft.com/data-pack/topaz-hud-v1-0/"><strong>Topaz HUD</strong></a> v1.1 has released. It removes Health, adds more info to Elytra Durability, and improves proformance.</li>
+<li><a href="https://github.com/LambdAurora/LambdaControls"><strong>LambadaControls</strong></a> <a href="https://www.curseforge.com/minecraft/mc-mods/lambdacontrols/files/3008323">v1.4</a> has released. It includes anologue controls and better compatability.</li>
+<li><strong>LambadaControls</strong> <a href="https://www.curseforge.com/minecraft/mc-mods/lambdacontrols/files/3008555">v1.4.1</a> has released. It fixes a crash.</li>
+</ul>
+<h2 id="past-events">Past events</h2>
+<ul>
+<li>🔄 The official Terraria weekly stream is every Friday at 9pm BST, on <a href="https://www.twitch.tv/terrariaofficial">Twitch</a>.</li>
+<li>🔄 The <a href="https://discord.gg/chpcEC2">Terraria Community Team</a> meeting is every Saturday at 8pm BST.</li>
+</ul>
+<h2 id="upcoming-events">Upcoming events</h2>
+<ul>
+<li>🔄 The Terraria Event forecast releases every Sunday, too late to cover here. You can find it in #activities-announcement at the <a href="http://discord.gg/terraria">Official Terraria Discord Server</a>.</li>
+</ul>
