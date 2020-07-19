@@ -5,6 +5,7 @@
    - 🔧<sup>1</sup> This highlighting [will soon be able to be disabled](https://phabricator.wikimedia.org/T256625) using a tag like `<translate nowrap>`.
  - 🔧<sup>3</sup> Wikimedia [will be moving](https://lists.wikimedia.org/pipermail/wikitech-l/2020-July/093577.html) onto GitLab instead of Gerrit for code review. See the linked email for more infomation.
  - The 'first step in cutting the release branch' for the MediaWiki 1.35 release happened on Monday. The focus is now on bugfixes: any new features will be targeted at 1.36. MediaWiki 1.35 is expected to land 'at the beginning of August'. [More infomation can be found in this email.](https://lists.wikimedia.org/pipermail/mediawiki-announce/2020-June/000250.html)
+ - The Minecraft 1.12 panorama seed has sbeen found! Seed: `2151901553968352745`/`8091867987493326313` (both work) Coordinates: `61 75 68` (XYZ) Version: Beta 1.7.3 (or earlier). The [Minecraft@Home](https://minecraftathome.com/) team reverse-engineered it, and it was announced on [Reddit](https://www.reddit.com/r/minecraftseeds/comments/hthuu4/big_news_we_have_found_the_seed_of_minecrafts/) and the [LTT Forums](https://linustechtips.com/main/topic/1223925-minecrafthome-have-found-the-seed-of-minecrafts-title-screen-background-panorama/). [SalC1](https://www.youtube.com/channel/UClY084mbGLK_SLlOfgizjow) will upload a video about it soon.
 
 ## Releases
  - [Conflict in Harmony](https://curseforge.com/minecraft/mc-mods/conflict-in-harmony) has released. It allows you to bind multiple actions to one key.
