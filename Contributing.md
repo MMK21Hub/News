@@ -1,6 +1,6 @@
-When writing news, try to follow the [Style Guide](https://github.com/MMK21Hub/News/blob/master/Style%20Guide.md). Every point should have at least one link. Try not to use Discord message links.
+When writing news, try to follow the [Style Guide](#style-guide). Every point should have at least one link. Try not to use Discord message links.
 
-## Useful soruces
+## Useful Soruces
  - [Tech/News - Meta](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)
  - [Wikimedia phab.](https://phabricator.wikimedia.org/notification/)
  - [GitHub releases](https://github.com/notifications)
@@ -13,7 +13,7 @@ When writing news, try to follow the [Style Guide](https://github.com/MMK21Hub/N
  - #community-creations in VanillaTweaks discord server.
  - #update-releases and #new-releases in The Fabric Project discord server.
 
-## Style guide
+## Style Guide
 Technical levels:
 - 1 - Editing
 - 2 - Technical user
@@ -25,6 +25,6 @@ Minecraft: Java Edition | Minecraft
 Mojang Studios<br>Mojang AB | Mojang
 
 ## Sunday
-Cutoff is 7:00 AM UTC. After that, run a full update of the Auto-Updating Page, and change the status to 'Fully up-to-date!'. Then, Schedule Send the weekly email.
+Cutoff is 7:00 AM UTC. After that, run a full update of the Auto-Updating Page, and change the status to 'Fully up-to-date!'. 
 
-The weekly email is sent at 12:00 PM UTC.
+Once the page is fuly updated, schedule the weekly email to send at 12:00 PM UTC.
