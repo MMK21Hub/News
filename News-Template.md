@@ -1,4 +1,5 @@
 # 2020 week ❌❌
+<sup>Status: WIP</sup>
 
  - [News that doesn't fit into the below sections]
  
