@@ -23,3 +23,6 @@ Technical levels:
 |--------------|-----------|
 Minecraft: Java Edition | Minecraft 
 Mojang Studios<br>Mojang AB | Mojang
+
+## Sunday
+Cutoff is 7 AM UTC on Sunday.
