@@ -25,6 +25,6 @@ Minecraft: Java Edition | Minecraft
 Mojang Studios<br>Mojang AB | Mojang
 
 ## Sunday
-Cutoff is 7:00 AM UTC.
+Cutoff is 7:00 AM UTC. After that, run a full update of the Auto-Updating Page.
 
 The weekly email is sent at 12:00 PM UTC.
