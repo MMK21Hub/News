@@ -1,4 +1,5 @@
 # 2020 week 29
+<sup>Status: Fully up-to-date!</sup>
 
  - Optifabric [will no longer continue to be updated](https://gist.github.com/modmuss50/deff1658c4550ca8b16cb5d40ceaa468).
  - Multi-language wikis (Commons, etc) use the [Translate](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Extension:Translate) extention. Missing translations will soon be highlighted, similar to how Outdated translations are highlighted pink.
