@@ -33,11 +33,11 @@
  - Minecraft 20w29a has released.<!--[I need a proper template for snapshots]-->
  - [Blockbench v3.6](https://github.com/JannisX11/blockbench/releases/tag/v3.6.0), AKA The Streamer Update, has released. It includes Streamer Mode, thumbnails, layered textures, code signing... And plenty more!
  - [Essentials for Fabric](https://github.com/NyliumMC/Essentials) [v0.2.2](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3003143) has released. It includes `/enderchest` and a claims API.
- - [Essentials for Fabric](https://github.com/NyliumMC/Essentials) [v0.2.3](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3003771) has released. It includes `/trash` and a QoL tweak for the `teleport` module.
+ - Essentials for Fabric [v0.2.3](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3003771) has released. It includes `/trash` and a QoL tweak for the `teleport` module.
  - [Roughly Enough Items](https://github.com/shedaniel/RoughlyEnoughItems) [v4.9](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items/files/3003840) has released. It improves searching performance, along with a few other tweaks.
  - [ChainsLink](https://www.curseforge.com/minecraft/mc-mods/chains-link) [v1.1](https://www.curseforge.com/minecraft/mc-mods/chains-link/files/3004397) has released. It doesn't crash on startup now!
  - [Don't Drop It!](https://github.com/Leo40Git/DontDropIt) [v1.1](https://www.curseforge.com/minecraft/mc-mods/dont-drop-it/files/3004514) has released. Rebindable keys, ModUpdater support, and fulfilled requests!
- - [Don't Drop It!](https://github.com/Leo40Git/DontDropIt) [v1.2](https://github.com/Leo40Git/DontDropIt/releases/tag/v1.2.0%2B1.16      ) has released. [Conflict in Harmony](https://github.com/Leo40Git/ConflictInHarmony) is now included out-of-the-box.
+ - Don't Drop It! [v1.2](https://github.com/Leo40Git/DontDropIt/releases/tag/v1.2.0%2B1.16      ) has released. [Conflict in Harmony](https://github.com/Leo40Git/ConflictInHarmony) is now included out-of-the-box.
  - [ModMenu](https://github.com/Prospector/ModMenu) [v1.14.2](https://www.curseforge.com/minecraft/mc-mods/modmenu/files/3006339) has released. It fixes [the bug that I reported](https://github.com/Prospector/ModMenu/issues/119).
  - [ModMenu](https://github.com/Prospector/ModMenu) [v1.14.5](https://www.curseforge.com/minecraft/mc-mods/modmenu/files/3006672) has released. It fixes crashes.
  - [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights) [v1.2.2](https://discordapp.com/channels/507304429255393322/507982666755473427/733331014037930025) has released. The 'Dynamic Lights' buttton in Video Options now redirects to LambDynamicLights' config.
@@ -47,7 +47,7 @@
  - [Don't Drop It!](https://github.com/Leo40Git/DontDropIt) [v1.2.1](https://www.curseforge.com/minecraft/mc-mods/dont-drop-it/files/3008093) has released. Conflict In Harmony was updated to v1.0.1.
  - [Topaz HUD](https://www.planetminecraft.com/data-pack/topaz-hud-v1-0/) v1.1 has released. It removes Health, adds more info to Elytra Durability, and improves proformance.
  - [LambadaControls](https://github.com/LambdAurora/LambdaControls) [v1.4](https://www.curseforge.com/minecraft/mc-mods/lambdacontrols/files/3008323) has released. It includes anologue controls and better compatability.
- - [LambadaControls](https://github.com/LambdAurora/LambdaControls) [v1.4.1](https://www.curseforge.com/minecraft/mc-mods/lambdacontrols/files/3008555) has released. It fixes a crash.
+ - LambadaControls [v1.4.1](https://www.curseforge.com/minecraft/mc-mods/lambdacontrols/files/3008555) has released. It fixes a crash.
 <!-- 
 ## Past events
  - ❌
