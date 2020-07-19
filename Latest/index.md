@@ -43,6 +43,9 @@
  - [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights) [v1.2.2](https://discordapp.com/channels/507304429255393322/507982666755473427/733331014037930025) has released. The 'Dynamic Lights' buttton in Video Options now redirects to LambDynamicLights' config.
  - [TinyMod](https://github.com/Ficklampan/TinyMod) [v0.0.2](https://github.com/Ficklampan/TinyMod/releases/tag/0.0.2) has released. It improves the UI and polishes some stuff.
  - [ReAuth](https://github.com/TechnicianLP/ReAuth) [v3.9.0](https://www.curseforge.com/minecraft/mc-mods/reauth/files/3007486) has released. It includes a new 'Login and Retry' button on the error screen.
+ - [Conflict in Harmony](https://curseforge.com/minecraft/mc-mods/conflict-in-harmony) [v1.0.1](https://www.curseforge.com/minecraft/mc-mods/conflict-in-harmony/files/3008090) has released. It fixes compatability with Fabric API.
+ - [Don't Drop It!](https://github.com/Leo40Git/DontDropIt) [v1.2.1](https://www.curseforge.com/minecraft/mc-mods/dont-drop-it/files/3008093) has released. Conflict In Harmony was updated to v1.0.1.
+ - [Topaz HUD](https://www.planetminecraft.com/data-pack/topaz-hud-v1-0/) has updated to v1.1. It removes Health, adds more info to Elytra Durability, and improves proformance.
 <!-- 
 ## Past events
  - ❌
