@@ -48,11 +48,10 @@
  - [**Topaz HUD**](https://www.planetminecraft.com/data-pack/topaz-hud-v1-0/) v1.1 has released. It removes Health, adds more info to Elytra Durability, and improves proformance.
  - [**LambadaControls**](https://github.com/LambdAurora/LambdaControls) [v1.4](https://www.curseforge.com/minecraft/mc-mods/lambdacontrols/files/3008323) has released. It includes anologue controls and better compatability.
  - **LambadaControls** [v1.4.1](https://www.curseforge.com/minecraft/mc-mods/lambdacontrols/files/3008555) has released. It fixes a crash.
-<!-- 
+
 ## Past events
- - ❌
--->
- ## Upcoming events
  - 🔄 The official Terraria weekly stream is every Friday at 9pm BST, on [Twitch](https://www.twitch.tv/terrariaofficial).
  - 🔄 The [Terraria Community Team](https://discord.gg/chpcEC2) meeting is every Saturday at 8pm BST.
+
+ ## Upcoming events
  - 🔄 The Terraria Event forecast releases every Sunday, too late to cover here. You can find it in #activities-announcement at the [Official Terraria Discord Server](http://discord.gg/terraria).
