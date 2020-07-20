@@ -16,22 +16,22 @@
 
 == RELEASES ==
 
- - [**Conflict in Harmony**](https://curseforge.com/minecraft/mc-mods/conflict-in-harmony) has released. It allows you to bind multiple actions to one key.
- - [**Fabulously Optimized**](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized) has released. It's a fabric modpack perfect for switching over from Optifine. It includes:
-   -   [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - optimizes general rendering to improve FPS, adds some graphics options (configurable)
-   -   [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - optimizes chunk loading
-   -   [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) - optimizes light rendering
-   -   [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) - lets you light up the area by holding a torch and more (configurable)
-   -   [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - the zoom feature, as you'd expect (configurable)
-   -   [motioNO](https://www.curseforge.com/minecraft/mc-mods/motiono) - adds an option to disable dynamic FOV (disabled by default)
-   -   [Jumploader](https://www.curseforge.com/minecraft/mc-mods/jumploader) - to make this modpack available on this site
-   -   [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - makes most mods work
-   -   [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) - gives you the list of mods and lets you adjust their configuration
-   -   [Better Mod Button](https://www.curseforge.com/minecraft/mc-mods/better-mod-button) - puts the "mods" button where you'd expect
-   -   [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) - lets you play after a crash and report it comfortably
+ - Conflict in Harmony has released. It allows you to bind multiple actions to one key. [8]
+ - Fabulously Optimized has released. It's a fabric modpack perfect for switching over from Optifine. [9] It includes:
+   - Sodium - optimizes general rendering to improve FPS, adds some graphics options (configurable)
+   - Lithium - optimizes chunk loading
+   - Phosphor - optimizes light rendering
+   - LambDynamicLights - lets you light up the area by holding a torch and more (configurable)
+   - Ok Zoomer - the zoom feature, as you'd expect (configurable)
+   - motioNO - adds an option to disable dynamic FOV (disabled by default)
+   - Jumploader - to make this modpack available on this site
+   - Fabric API - makes most mods work
+   - Mod Menu - gives you the list of mods and lets you adjust their configuration
+   - Better Mod Button - puts the "mods" button where you'd expect
+   - Not Enough Crashes - lets you play after a crash and report it comfortably
    - And more mods planned!
-   - *Hang on, that's all the mods that I use!*
- - [**Topaz HUD**](https://www.planetminecraft.com/data-pack/topaz-hud-v1-0/) has released. It adds a custom actionbar HUD displaying Health, Saturation. Elytra Durability, Coordinates and In-Game Time.
+   - (Hang on, that's all the mods that I use!)
+ - Topaz HUD has released. It adds a custom actionbar HUD displaying Health, Saturation. Elytra Durability, Coordinates and In-Game Time. [10]
 
 == UPDATES ==
 
@@ -68,11 +68,15 @@
  - 🔄 The Terraria Event forecast releases every Sunday, too late to cover here. You can find it in #activities-announcement at the [Official Terraria Discord Server](http://discord.gg/terraria).
 
 == FOOTER ==
-1: https://gist.github.com/modmuss50/deff1658c4550ca8b16cb5d40ceaa468
-2: mw:Help:Extension:Translate
-3: T256625
-4: https://lists.wikimedia.org/pipermail/mediawiki-announce/2020-June/000250.html
-5: https://minecraftathome.com/
-6: https://www.reddit.com/r/minecraftseeds/comments/hthuu4/big_news_we_have_found_the_seed_of_minecrafts/) and the [LTT Forums](https://linustechtips.com/main/topic/1223925-minecrafthome-have-found-the-seed-of-minecrafts-title-screen-background-panorama/
-7: https://diff.wikimedia.org/2020/07/14/welcome-to-diff-a-community-blog-for-the-wikimedia-movement/
+1:  https://gist.github.com/modmuss50/deff1658c4550ca8b16cb5d40ceaa468
+2:  mw:Help:Extension:Translate
+3:  T256625
+4:  https://lists.wikimedia.org/pipermail/mediawiki-announce/2020-June/000250.html
+5:  https://minecraftathome.com/
+6a: https://www.reddit.com/r/minecraftseeds/comments/hthuu4/big_news_we_have_found_the_seed_of_minecrafts/
+6b: https://linustechtips.com/main/topic/1223925-minecrafthome-have-found-the-seed-of-minecrafts-title-screen-background-panorama/
+7:  https://diff.wikimedia.org/2020/07/14/welcome-to-diff-a-community-blog-for-the-wikimedia-movement/
+8:  https://curseforge.com/minecraft/mc-mods/conflict-in-harmony
+9:  https://www.curseforge.com/minecraft/modpacks/fabulously-optimized
+10: https://www.planetminecraft.com/data-pack/topaz-hud-v1-0/
 
