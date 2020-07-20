@@ -12,6 +12,7 @@ When writing news, try to follow the [Style Guide](#style-guide). Every point sh
  - [Google calendar](https://calendar.google.com/calendar/r)
  - #community-creations in VanillaTweaks discord server.
  - #update-releases and #new-releases in The Fabric Project discord server.
+ - r/Hermitcraft beacon
 
 ## Style Guide
 Technical levels:
