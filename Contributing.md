@@ -29,6 +29,6 @@ Cutoff is 7:00 AM UTC. After that, run a full update of the Auto-Updating Page, 
 
 Once the page is fuly updated, schedule the weekly email to send at 12:00 PM UTC.
 
-Once the email is scheduled, it's time to archive. Convert the page to the folllowing formats: Markdown, HTML, RTF, Wikitext and Plain Text. Then save the outputs to `Archives/<YYYY>/<WW>/<format>.<ext>`. Example: `Archives/2020/29/markdown.md` `Archives/2020/29/html.html` `Archives/2020/29/richtext.rtf` `Archives/2020/29/wikitext.txt` `Archives/2020/29/plaintext.txt`. Then add a `index.md` in that folder with links to the above files.
+Once the email is scheduled, it's time to archive. Convert the page to the folllowing formats: Markdown, HTML, RTF and Wikitext. Then save the outputs to `Archives/<YYYY>/<WW>/<format>.<ext>`. Example: `Archives/2020/29/markdown.md` `Archives/2020/29/html.html` `Archives/2020/29/richtext.rtf` `Archives/2020/29/wikitext.txt`. Then add a `index.md` in that folder with links to the above files.
 
 Finally, reset the `Latest/index.md` by replacing it with the [Auto-Updating Page Template](News-Template.md) (`News-Template.md`). Comment things out and replace the ❌es as needed.
