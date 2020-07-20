@@ -7,11 +7,16 @@
                                                    FULLY UP-TO-DATE!
 
  - Optifabric will no longer continue to be updated. [1]
- - Multi-language wikis (Commons, etc) use the Translate extention. Missing translations will soon be highlighted, similar to how Outdated translations are highlighted pink. [2]
+ - Multi-language wikis (Commons, etc) use the Translate extention. Missing translations will soon be highlighted, 
+   similar to how Outdated translations are highlighted pink. [2]
    - 🔧1 This highlighting will soon be able to be disabled using a tag like <translate nowrap>. [3]
  - 🔧3 Wikimedia will be moving onto GitLab instead of Gerrit for code review. See the linked email for more infomation. [3.5]
- - The 'first step in cutting the release branch' for the MediaWiki 1.35 release happened on Monday. The focus is now on bugfixes: any new features will be targeted at 1.36. MediaWiki 1.35 is expected to land 'at the beginning of August'. [4]
- - The Minecraft 1.12 panorama seed has sbeen found! Seed: `2151901553968352745`/`8091867987493326313` (both work) Coordinates: `61 75 68` (XYZ) Version: Beta 1.7.3 (or earlier). The Minecraft@Home team reverse-engineered it, and it was announced on Reddit. SalC1 will upload a video about it soon. [5] [6]
+ - The 'first step in cutting the release branch' for the MediaWiki 1.35 release happened on Monday.
+   The focus is now on bugfixes: any new features will be targeted at 1.36.
+   MediaWiki 1.35 is expected to land 'at the beginning of August'. [4]
+ - The Minecraft 1.12 panorama seed has sbeen found!
+   Seed: `2151901553968352745`/`8091867987493326313` (both work) Coordinates: `61 75 68` (XYZ) Version: Beta 1.7.3 (or earlier).
+   The Minecraft@Home team reverse-engineered it, and it was announced on Reddit. SalC1 will upload a video about it soon. [5] [6]
  - Diff is a new community blog from the Wikimedia Movement. [7]
 
 == RELEASES ==
@@ -31,7 +36,8 @@
    - Not Enough Crashes - lets you play after a crash and report it comfortably
    - And more mods planned!
    - (Hang on, that's all the mods that I use!)
- - Topaz HUD has released. It adds a custom actionbar HUD displaying Health, Saturation. Elytra Durability, Coordinates and In-Game Time. [10]
+ - Topaz HUD has released. It adds a custom actionbar HUD displaying Health, Saturation, Elytra Durability, Coordinates
+   and In-Game Time. [10]
 
 == UPDATES ==
 
@@ -40,7 +46,8 @@
     - Group 1 is scheduled for Wednesday. Its time slot was 2:00pm to 4:00pm BST. It was pushed at 2:04pm.
     - Group 2 is scheduled for Thursday. Its time slot was 2:00pm to 4:00pm BST.
  - **Minecraft** 20w29a has released.
- - Blockbench v3.6, AKA The Streamer Update, has released. It includes Streamer Mode, thumbnails, layered textures, code signing... And plenty more! [12]
+ - Blockbench v3.6, AKA The Streamer Update, has released. It includes Streamer Mode, thumbnails,
+   layered textures, code signing... And plenty more! [12]
  - Essentials for Fabric v0.2.2 has released. It includes /enderchest and a claims API. [13]
  - Essentials for Fabric v0.2.3 has released. It includes /trash and a QoL tweak for the teleport module. [14]
  - Roughly Enough Items v4.9 has released. It improves searching performance, along with a few other tweaks. [15]
@@ -50,7 +57,8 @@
  - Don't Drop It! v1.2.1 has released. Conflict In Harmony was updated to v1.0.1. [19]
  - ModMenu v1.14.2 has released. It fixes the bug that I reported [#119]. [20]
  - ModMenu v1.14.5 has released. It fixes crashes. [21]
- - LambDynamicLights v1.2.2 has released. The 'Dynamic Lights' buttton in Video Options now redirects to LambDynamicLights' config. [22]
+ - LambDynamicLights v1.2.2 has released. The 'Dynamic Lights' buttton in Video Options now redirects to
+   LambDynamicLights' config. [22]
  - TinyMod v0.0.2 has released. It improves the UI and polishes some stuff. [23]
  - ReAuth v3.9 has released. It includes a new 'Login and Retry' button on the error screen. [24]
  - Conflict in Harmony v1.0.1 has released. It fixes compatability with Fabric API. [25]
@@ -65,7 +73,8 @@
 
 == UPCOMING EVENTS ==
 
- - 🔄 The Terraria Event forecast releases every Sunday, too late to cover here. You can find it in #activities-announcement at the [Official Terraria Discord Server](http://discord.gg/terraria).
+ - 🔄 The Terraria Event forecast releases every Sunday, too late to cover here. You can find it in #activities-announcement
+   at the [Official Terraria Discord Server](http://discord.gg/terraria).
 
 == FOOTER ==
 1:   https://gist.github.com/modmuss50/deff1658c4550ca8b16cb5d40ceaa468
