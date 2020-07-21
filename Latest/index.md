@@ -1,19 +1,21 @@
 # 2020 week 30
 <sup>Status: WIP</sup>
+ - The Mobile Main Page special case has finally [been removed](https://phabricator.wikimedia.org/T254287). However 67 sites still rely on it, which means they now have broken Main Pages on mobile.
+ - If you are having issues logging in, please [report them](https://phabricator.wikimedia.org/T258121).
 <!--
- - [News that doesn't fit into the below sections]
-
 ## Releases
  - ❌
-
+-->
 ## Updates
- - [MediaWiki 1.35.0-wmf.❌❌](https://www.mediawiki.org/wiki/MediaWiki_1.35/wmf.❌❌) is being rolled out this week: [Phabricator task](https://phabricator.wikimedia.org/T❌❌❌❌) • [Roadmap](https://www.mediawiki.org/wiki/MediaWiki_1.35/Roadmap#❌❌) • [Current status](https://versions.toolforge.org/) • [Git](https://❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌) • [Notes](https://phabricator.wikimedia.org/maniphest/?project=❌❌❌❌❌❌❌❌)
-    - Group 0 is scheduled for Tuesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-❌❌❌  ) is ❌ to ❌ BST.
-    - Group 1 is scheduled for Wednesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-❌❌❌) is ❌ to ❌ BST.
-    - Group 2 is scheduled for Thursday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-❌❌❌ ) is ❌ to ❌ BST.
+ - 🔄[MediaWiki 1.36.0-wmf.1](https://www.mediawiki.org/wiki/MediaWiki_1.36/wmf.1) is being rolled out this week: [Phabricator task](https://phabricator.wikimedia.org/T257969) • [Roadmap](https://www.mediawiki.org/wiki/MediaWiki_1.36/Roadmap#1) • [Current status](https://versions.toolforge.org/) • [Git](https://phabricator.wikimedia.org/source/mediawiki/history/wmf%252F1.36.0-wmf.1) • [Notes](https://phabricator.wikimedia.org/project/profile/4480/)
+    - Group 0 is scheduled for Tuesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200721T1900  ) is 2:00 to 4:00 PM BST.
+    - Group 1 is scheduled for Wednesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200722T1900) is 2:00 PM to 4:00 PM BST.
+    - Group 2 is scheduled for Thursday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200723T1300 ) is 2:00 PM to 4:00 PM BST.
+<!--
  - [I need a proper template for snapshots]
- - [Anything else?]
+ - [Anything else?]-->
 
+<!--
 ## Past events
  - ❌
 -->
