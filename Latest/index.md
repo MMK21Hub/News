@@ -1,5 +1,5 @@
 # 2020 week 30
-<sup>Status: WIP</sup>
+<sup>Status: Pending Full Update</sup>
  - The Mobile Main Page special case has finally [been removed](https://phabricator.wikimedia.org/T254287). However 67 sites still rely on it, which means they now have broken Main Pages on mobile.
  - If you are having issues logging in, please [report them](https://phabricator.wikimedia.org/T258121).
 <!--
