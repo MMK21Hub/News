@@ -16,7 +16,8 @@
  - [I need a proper template for snapshots]-->
  - [**BetterModButton**](https://github.com/Minenash/Better-Mod-Button) [v1.1.4](https://www.curseforge.com/minecraft/mc-mods/better-mod-button/files/3010910). It "Fixed Estonian capitalization".
  - [**Piston Control**](https://github.com/williambl/piston-control) [v1.2.1](https://www.curseforge.com/minecraft/mc-mods/piston-control/files/3010931) has released. It is now compatable with 1.16.1.
- - [**Jumploader**](https://github.com/comp500/Jumploader) [2.0](https://www.curseforge.com/minecraft/mc-mods/jumploader/files/3011295) has released. It includes clearer error messages, bettter config, and bugfixes.
+ - [**Jumploader**](https://github.com/comp500/Jumploader) [v2.0](https://www.curseforge.com/minecraft/mc-mods/jumploader/files/3011295) has released. It includes clearer error messages, bettter config, and bugfixes.
+ - [**Don't Drop It!**](https://github.com/Leo40Git/DontDropIt) [v1.2.2](https://www.curseforge.com/minecraft/mc-mods/dont-drop-it/files/3011492) has released. It replaces Conflict in Harmony with [Amecs](https://www.curseforge.com/minecraft/mc-mods/amecs).
 
 <!--
 ## Past events
