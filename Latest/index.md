@@ -9,7 +9,7 @@
 -->
 ## Updates
  - 🔄[MediaWiki 1.36.0-wmf.1](https://www.mediawiki.org/wiki/MediaWiki_1.36/wmf.1) is being rolled out this week: [Phabricator task](https://phabricator.wikimedia.org/T257969) • [Roadmap](https://www.mediawiki.org/wiki/MediaWiki_1.36/Roadmap#1) • [Current status](https://versions.toolforge.org/) • [Git](https://phabricator.wikimedia.org/source/mediawiki/history/wmf%252F1.36.0-wmf.1) • [Notes](https://phabricator.wikimedia.org/project/profile/4480/)
-    - Group 0 is scheduled for Tuesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200721T1900  ) is 2:00 to 4:00 PM BST.
+    - Group 0 is scheduled for Tuesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200721T1900  ) was 2:00 to 4:00 PM BST. It [was pushed](https://gerrit.wikimedia.org/r/614913) during the second slot, at 5:40 PM.
     - Group 1 is scheduled for Wednesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200722T1900) is 2:00 PM to 4:00 PM BST.
     - Group 2 is scheduled for Thursday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200723T1300 ) is 2:00 PM to 4:00 PM BST.
 <!--
