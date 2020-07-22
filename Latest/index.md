@@ -12,8 +12,10 @@
     - Group 1 is scheduled for Wednesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200722T1900) is 2:00 PM to 4:00 PM BST.
     - Group 2 is scheduled for Thursday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200723T1300 ) is 2:00 PM to 4:00 PM BST.
 <!--
- - [I need a proper template for snapshots]
- - [Anything else?]-->
+ - [I need a proper template for snapshots]-->
+ - [**BetterModButton**](https://github.com/Minenash/Better-Mod-Button) [v1.1.4](https://www.curseforge.com/minecraft/mc-mods/better-mod-button/files/3010910). It "Fixed Estonian capitalization".
+ - [**Piston Control**](https://github.com/williambl/piston-control) [v1.2.1](https://www.curseforge.com/minecraft/mc-mods/piston-control/files/3010931) has released. It is now compatable with 1.16.1.
+ - [**Jumploader**](https://github.com/comp500/Jumploader) [2.0](https://www.curseforge.com/minecraft/mc-mods/jumploader/files/3011295) has released. It includes clearer error messages, bettter config, and bugfixes.
 
 <!--
 ## Past events
