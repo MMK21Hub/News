@@ -18,6 +18,7 @@
  - [**Jumploader**](https://github.com/comp500/Jumploader) [v2.0](https://www.curseforge.com/minecraft/mc-mods/jumploader/files/3011295) has released. It includes clearer error messages, bettter config, and bugfixes.
  - [**Don't Drop It!**](https://github.com/Leo40Git/DontDropIt) [v1.2.2](https://www.curseforge.com/minecraft/mc-mods/dont-drop-it/files/3011492) has released. It replaces Conflict in Harmony with [Amecs](https://www.curseforge.com/minecraft/mc-mods/amecs).
  - [**Essentials for Fabric**](https://github.com/nyliummc/essentials) [v0.2.4](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3012493) has released. It includes chunk claiming, death support for `/back`, and bugfixes.
+ - [**Essentials for Fabric**](https://github.com/nyliummc/essentials) [0.2.5](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3012949) has released. It fixes bugs.
 
 <!--
 ## Past events
