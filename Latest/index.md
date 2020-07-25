@@ -15,11 +15,12 @@
  - Minecraft 20w30a has released. It includes support for optional entries in tags.
  - [**BetterModButton**](https://github.com/Minenash/Better-Mod-Button) [v1.1.4](https://www.curseforge.com/minecraft/mc-mods/better-mod-button/files/3010910). It "Fixed Estonian capitalization".
  - [**Piston Control**](https://github.com/williambl/piston-control) [v1.2.1](https://www.curseforge.com/minecraft/mc-mods/piston-control/files/3010931) has released. It is now compatable with 1.16.1.
+ - **Piston Control** [v1.2.2](https://www.curseforge.com/minecraft/mc-mods/piston-control/files/3013495) has released. It fixes a crash.
  - [**Jumploader**](https://github.com/comp500/Jumploader) [v2.0](https://www.curseforge.com/minecraft/mc-mods/jumploader/files/3011295) has released. It includes clearer error messages, bettter config, and bugfixes.
  - [**Don't Drop It!**](https://github.com/Leo40Git/DontDropIt) [v1.2.2](https://www.curseforge.com/minecraft/mc-mods/dont-drop-it/files/3011492) has released. It replaces Conflict in Harmony with [Amecs](https://www.curseforge.com/minecraft/mc-mods/amecs).
  - [**Essentials for Fabric**](https://github.com/nyliummc/essentials) [v0.2.4](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3012493) has released. It includes chunk claiming, death support for `/back`, and bugfixes.
- - [**Essentials for Fabric**](https://github.com/nyliummc/essentials) [v0.2.5](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3012949) has released. It fixes bugs.
- - [**Essentials for Fabric**](https://github.com/nyliummc/essentials) [v0.2.6](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3012949) has released. It adds a `/workbench` command and fixes bugs.
+ - **Essentials for Fabric** [v0.2.5](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3012949) has released. It fixes bugs.
+ - **Essentials for Fabric** [v0.2.6](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3012949) has released. It adds a `/workbench` command and fixes bugs.
 
 ## Past events
  - 🔄 The official Terraria weekly stream is every Friday at 9pm BST, on [Twitch](https://www.twitch.tv/terrariaofficial).
