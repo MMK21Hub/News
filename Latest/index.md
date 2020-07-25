@@ -8,11 +8,11 @@
  - [**Creeper Config**](https://www.planetminecraft.com/data-pack/creeper-config/) has released. It allows you to chnge the explosion radius of Creepers.
 
 ## Updates
- - 🔄[MediaWiki 1.36.0-wmf.1](https://www.mediawiki.org/wiki/MediaWiki_1.36/wmf.1) is being rolled out this week: [Phabricator task](https://phabricator.wikimedia.org/T257969) • [Roadmap](https://www.mediawiki.org/wiki/MediaWiki_1.36/Roadmap#1) • [Current status](https://versions.toolforge.org/) • [Git](https://phabricator.wikimedia.org/source/mediawiki/history/wmf%252F1.36.0-wmf.1) • [Notes](https://phabricator.wikimedia.org/project/profile/4480/)
+ - 🔄[**MediaWiki** 1.36.0-wmf.1](https://www.mediawiki.org/wiki/MediaWiki_1.36/wmf.1) is being rolled out this week: [Phabricator task](https://phabricator.wikimedia.org/T257969) • [Roadmap](https://www.mediawiki.org/wiki/MediaWiki_1.36/Roadmap#1) • [Current status](https://versions.toolforge.org/) • [Git](https://phabricator.wikimedia.org/source/mediawiki/history/wmf%252F1.36.0-wmf.1) • [Notes](https://phabricator.wikimedia.org/project/profile/4480/)
     - Group 0 is scheduled for Tuesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200721T1900  ) was 8:00 PM to 10:00 PM BST. It [was pushed](https://gerrit.wikimedia.org/r/614913) early, at 5:40 PM.
     - Group 1 is scheduled for Wednesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200722T1900) was 2:00 PM to 4:00 PM BST.
     - Group 2 is scheduled for Thursday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200723T1300 ) was 2:00 PM to 4:00 PM BST.
- - Minecraft 20w30a has released. It includes support for optional entries in tags.
+ - [**Minecraft** 20w30a](https://gist.github.com/MMK21Hub/7119f683c3e57ac156ec92b70e102f71) has released. It includes support for optional entries in tags.
  - [**BetterModButton**](https://github.com/Minenash/Better-Mod-Button) [v1.1.4](https://www.curseforge.com/minecraft/mc-mods/better-mod-button/files/3010910). It "Fixed Estonian capitalization".
  - [**Piston Control**](https://github.com/williambl/piston-control) [v1.2.1](https://www.curseforge.com/minecraft/mc-mods/piston-control/files/3010931) has released. It is now compatable with 1.16.1.
  - **Piston Control** [v1.2.2](https://www.curseforge.com/minecraft/mc-mods/piston-control/files/3013495) has released. It fixes a crash.
