@@ -26,5 +26,6 @@
  - 🔄 The official Terraria weekly stream is every Friday at 9pm BST, on [Twitch](https://www.twitch.tv/terrariaofficial).
 
 ## Upcoming events
+ - There is a [Hermitcraft Livestream Weekend](https://livestream.hermitcraft.com/) runnning this week, from Saturday 25th to Sunday 26th.
  - 🔄 The [Terraria Community Team](https://discord.gg/chpcEC2) meeting is every Saturday at 8pm BST.
  - 🔄 The Terraria Event forecast releases every Sunday, too late to cover here. You can find it in #activities-announcement at the [Official Terraria Discord Server](http://discord.gg/terraria).
