@@ -21,6 +21,7 @@
  - [**Essentials for Fabric**](https://github.com/nyliummc/essentials) [v0.2.4](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3012493) has released. It includes chunk claiming, death support for `/back`, and bugfixes.
  - **Essentials for Fabric** [v0.2.5](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3012949) has released. It fixes bugs.
  - **Essentials for Fabric** [v0.2.6](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3012949) has released. It adds a `/workbench` command and fixes bugs.
+ - [**Topaz HUD**](https://www.planetminecraft.com/data-pack/topaz-hud-v1-0/) v1.2 has released. It includes a durability ping for Elytra and other tweaks.
 
 ## Past events
  - 🔄 The official Terraria weekly stream is every Friday at 9pm BST, on [Twitch](https://www.twitch.tv/terrariaofficial).
