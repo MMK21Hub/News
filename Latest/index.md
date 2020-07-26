@@ -4,6 +4,7 @@
  - If you are having issues logging in, please [report them](https://phabricator.wikimedia.org/T258121).
  - MediaWiki 1.36 (wmf.2) [will drop support](https://phabricator.wikimedia.org/T248061) for [Internet Explorer 8](https://en.wikipedia.org/wiki/Internet_Explorer_8).
  - There is now a [Small Wiki Starter Kit](https://meta.wikimedia.org/wiki/Small_wiki_toolkits/Starter_kit).
+ - The [Terraria State of the Game (July 2020)](https://forums.terraria.org/index.php?threads/terraria-state-of-the-game-july-2020.96219) is out now.
 
 ## Releases
  - [**Creeper Config**](https://www.planetminecraft.com/data-pack/creeper-config/) has released. It allows you to chnge the explosion radius of Creepers.
