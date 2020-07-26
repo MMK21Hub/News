@@ -3,6 +3,7 @@
  - The Mobile Main Page special case has finally [been removed](https://phabricator.wikimedia.org/T254287). However 67 sites still rely on it, which means they now have broken Main Pages on mobile.
  - If you are having issues logging in, please [report them](https://phabricator.wikimedia.org/T258121).
  - MediaWiki 1.36 (wmf.2) [will drop support](https://phabricator.wikimedia.org/T248061) for [Internet Explorer 8](https://en.wikipedia.org/wiki/Internet_Explorer_8).
+ - There is now a [Small Wiki Starter Kit](https://meta.wikimedia.org/wiki/Small_wiki_toolkits/Starter_kit).
 
 ## Releases
  - [**Creeper Config**](https://www.planetminecraft.com/data-pack/creeper-config/) has released. It allows you to chnge the explosion radius of Creepers.
