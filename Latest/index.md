@@ -25,7 +25,7 @@
  - **Essentials for Fabric** [v0.2.6](https://www.curseforge.com/minecraft/mc-mods/fabric-essentials/files/3012949) has released. It adds a `/workbench` command and fixes bugs.
  - [**Topaz HUD**](https://www.planetminecraft.com/data-pack/topaz-hud-v1-0/) v1.2 has released. It includes a durability ping for Elytra and other tweaks.
  - [**Fabuously Optimised**](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized) [v1.1](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files/3013811) has released. It includes four new mods.
- - [**ModUpdater**](https://gitea.thebrokenrail.com/TheBrokenRail/ModUpdater) [v1.1.8](https://www.curseforge.com/minecraft/mc-mods/modupdater/files/3014519) has released.
+ - [**ModUpdater**](https://gitea.thebrokenrail.com/TheBrokenRail/ModUpdater) [v1.1.8](https://www.curseforge.com/minecraft/mc-mods/modupdater/files/3014519) has released. It now strictly chaeck the Minecraft version. No getting past it now!
 
 ## Past events
  - 🔄 The official Terraria weekly stream is every Friday at 9pm BST, on [Twitch](https://www.twitch.tv/terrariaofficial).
