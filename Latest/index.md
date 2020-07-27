@@ -1,6 +1,6 @@
 # 2020 week 31
 <sup>Status: WIP</sup>
- - ❌
+ - The [MediaWiki Discourse](https://discourse-mediawiki.wmflabs.org/) [may go read-only](https://phabricator.wikimedia.org/T247010) by the end of August 2020. ([Proposal](https://lists.wikimedia.org/pipermail/wikitech-l/2020-July/093642.html))
 <!--
 ## Releases
  - ❌
