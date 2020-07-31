@@ -10,9 +10,9 @@
     - Group 0 is scheduled for Tuesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200728T1300  ) was 2:00 PM to 4:00 PM BST. Its [secondary time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200728T1900) was 8:00 PM to 10:00 PM BST.
     - Group 1 is scheduled for Wednesday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200729T1300) was 2:00 PM to 4:00 PM BST. Its [secondary time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200729T1900) is 8:00 PM to 10:00 PM BST. 
     - Group 2 is scheduled for Thursday. Its [time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200730T1300 ) is 2:00 PM to 4:00 PM BST. Its [secondary time slot](https://wikitech.wikimedia.org/wiki/Deployments#deploycal-item-20200730T1900) is 8:00 PM to 10:00 PM BST. 
-<!--
- - [I need a proper template for snapshots]
- - [Anything else?]-->
+ - [Connected Block Textures](https://github.com/Nuclearfarts/connected-block-textures) [v0.1.1](https://www.curseforge.com/minecraft/mc-mods/connected-block-textures/files/3018854) has released. It fixes bugs.
+ - Minecraft 1.16.2 pre1 has released.
+ 
 <!-- 
 ## Past events
  - [Move upcoming events that have ended here]
